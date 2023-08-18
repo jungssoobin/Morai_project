@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kw-cobot/slam_kw_ws/install/setup.sh
