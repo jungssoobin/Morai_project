@@ -1,4 +1,4 @@
-# SLAM & Naviggation 
+# SLAM & Navigation 
 
 ### 환경 설정 
 - Ubuntu 18.04
